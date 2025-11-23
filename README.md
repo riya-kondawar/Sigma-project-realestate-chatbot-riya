@@ -1,7 +1,3 @@
-Here is the **clean, concise, professional** version of your `README.md` — no fluff, only meaningful content.
-
----
-
 # 🏠 Real Estate Analysis Chatbot
 
 AI-powered real estate trend analysis with **React + Django + OpenAI**.
